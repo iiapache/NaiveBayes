@@ -1,4 +1,5 @@
 NaiveBayes
 ==========
 
-The implementation of NaiveBayes algorithm.
+###The implementation of NaiveBayes algorithm.
+
